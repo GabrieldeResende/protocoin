@@ -1,0 +1,41 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "C:\\Users\\resen\\Documents\\protocoin-erc20-hardhat\\contracts\\ProtoCoin.sol": {
+      "lastModificationDate": 1722311149962,
+      "contentHash": "85885d1ea69c9423419e0262c53f6e50",
+      "sourceName": "contracts/ProtoCoin.sol",
+      "solcConfig": {
+        "version": "0.8.24",
+        "settings": {
+          "evmVersion": "paris",
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.24"
+      ],
+      "artifacts": [
+        "ProtoCoin"
+      ]
+    }
+  }
+}
